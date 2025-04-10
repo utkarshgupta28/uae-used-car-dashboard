@@ -1,4 +1,4 @@
-# uae-used-car-dashboard
+# UAE Used Car Dashboard
 
 🚗 UAE Used Car Market Analysis (2000–2024)
 This repository presents a Power BI dashboard that visualizes trends and insights from the UAE used car market over the past two decades. The project leverages interactive charts, drill-down capabilities, and KPI summaries to help understand the evolution of car sales, popular brands, fuel preferences, and pricing trends.
@@ -62,8 +62,8 @@ Pricing trends show steady depreciation in the first 5 years, stabilizing afterw
 
 <br/>
 🚀 How to Run
-Clone this repository
 
+Clone this repository
 git clone https://github.com/utkarshgupta28/uae-used-car-dashboard.git
 
 Open UsedCar_UAE_Report.pbix in Power BI Desktop
@@ -74,6 +74,7 @@ Interact with filters and visuals to explore deeper insights
 
 <br/>
 🔮 Future Enhancements
+
 Integrate real-time listings from car resale platforms via APIs
 
 Add AI-powered price prediction models
