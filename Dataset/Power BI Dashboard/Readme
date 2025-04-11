@@ -1,0 +1,62 @@
+### Screenshot Descriptions
+
+1. **Dashboard 1: UAE Used Car Market Overview 1**:  
+![alt text](<Screenshot 2025-03-31 180334.png>)
+
+Purpose: This dashboard focuses on fuel type preferences and regional sales trends.
+
+Key Features:
+Bar Chart: Top-selling brands by total cars sold (e.g., Ford, Land Rover).
+Pie Chart: Fuel type distribution (Gasoline dominates with 97.14%).
+Map Visualization: Car sales by region, emphasizing major markets like Dubai and Abu Dhabi.
+
+KPIs:
+Total Car Sales Revenue: $ 662M.
+Total Cars Sold: 10K.
+Average Car Price: $ 66.21K.
+
+Insights:
+Gasoline is the most preferred fuel type in the UAE market.
+Dubai and Abu Dhabi are the primary hubs for used car sales.
+
+2. **Dashboard 2: GDP Impact on Used Car Market**:  
+![alt text](<Screenshot 2025-03-31 180341.png>)
+
+Purpose: This dashboard examines the relationship between GDP trends and car sales in the UAE.
+
+Key Features:
+Line Chart: Total cars sold vs. GDP over time shows a positive correlation.
+Map Visualization: Regional breakdown of total cars sold and GDP contribution.
+Scatter Plot: Average car price vs. GDP demonstrates how economic growth impacts pricing trends.
+
+KPIs:
+Total Cars Sold: 10K.
+Average Car Price: AED 66.21K.
+Sum of GDP%: 0.11%.
+
+Insights:
+Economic growth positively influences car sales volume and average prices.
+Dubai leads in total car sales across all regions.
+
+3. **Dashboard 3: Luxury vs. Budget Car Analysis**:  
+![alt text](<Screenshot 2025-03-31 180347.png>)
+
+Purpose: This dashboard compares luxury, mid-range, and budget car sales in the UAE.
+
+Key Features:
+KPIs: Luxury car sales (998) vs. budget car sales (6,948).
+Bar Chart: Sales by brand, highlighting top luxury brands like Mercedes-Benz and Rolls-Royce.
+Pie Chart: Market share distribution (Luxury: 70.29%, Mid-Range: 19.33%, Budget: 10.38%).
+
+Line Charts:
+Percentage share of luxury vs. budget cars over time.
+Price trends for luxury and budget cars across years.
+Data Table: Detailed information on car make, model, year, price, and mileage.
+
+Insights:
+Luxury cars dominate the market in terms of revenue.
+Mercedes-Benz leads in luxury car sales.
+
+
+
+
